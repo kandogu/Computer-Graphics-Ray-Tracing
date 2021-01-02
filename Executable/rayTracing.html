@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<script id="vertex-shader" type="x-shader/x-vertex">
+
+attribute vec2 vPosition;
+attribute  vec2 vTexCoord;
+varying vec2 fTexCoord;
+attribute vec4 vColor;
+varying vec4 fColor;
+
+void main()
+{    
+    fTexCoord = vTexCoord;
+    gl_Position =  vec4(vPosition.x, vPosition.y, 0.0, 1.0);
+    fColor = vColor;
+}
+</script>
+
+<script id="fragment-shader" type="x-shader/x-fragment">
+
+precision mediump float;
+
+varying vec2 fTexCoord;
+uniform sampler2D texture;
+varying vec4 fColor;
+void
+main()
+{
+    vec4 color = texture2D(texture, fTexCoord);
+    gl_FragColor = color;
+    
+}
+</script>
+
+
+<script type="text/javascript" src="../Source/Common/webgl-utils.js"></script>
+<script type="text/javascript" src="../Source/Common/initShaders.js"></script>
+<script type="text/javascript" src="../Source/Common/MV.js"></script>
+<script type="text/javascript" src="../Source/rayTracing.js"></script>
+
+<body>
+<canvas id="gl-canvas" width="768" height="768">
+Oops ... your browser doesn't support the HTML5 canvas element
+</canvas>
+</body>
+</html>
