@@ -6,18 +6,18 @@ Muhammed Musab Okşaş, ID: 21602984,
 
 Doğukan Köse, ID: 21602375
 
-![alt text](https://github.com/kandogu/Computer-Graphics-Ray-Tracing/Render&#32;Examples/3_wall_mirror.png?raw=true)
+![alt text](https://github.com/kandogu/Computer-Graphics-Ray-Tracing/blob/main/Render&#32;Examples/3_wall_mirror.png?raw=true)
 <br>
 <br>
-![alt text](https://github.com/kandogu/Computer-Graphics-Ray-Tracing/Render&#32;Examples/back_wall_mirror.png?raw=true)
+![alt text](https://github.com/kandogu/Computer-Graphics-Ray-Tracing/blob/main/Render&#32;Examples/back_wall_mirror.png?raw=true)
 <br>
 <br>
-![alt text](https://github.com/kandogu/Computer-Graphics-Ray-Tracing/Render&#32;Examples/camera1.png?raw=true)
+![alt text](https://github.com/kandogu/Computer-Graphics-Ray-Tracing/blob/main/Render%20Examples/camera1.png?raw=true)
 <br>
 <br>
-![alt text](https://github.com/kandogu/Computer-Graphics-Ray-Tracing/Render&#32;Examples/camera2.png?raw=true)
+![alt text](https://github.com/kandogu/Computer-Graphics-Ray-Tracing/blob/main/Render%20Examples/camera2.png?raw=true)
 <br>
-![alt text](https://github.com/kandogu/Computer-Graphics-Ray-Tracing/Render&#32;Examples/camera3.png?raw=true)
+![alt text](https://github.com/kandogu/Computer-Graphics-Ray-Tracing/blob/main/Render%20Examples/camera3.png?raw=true)
 <br>
 
 
