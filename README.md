@@ -6,6 +6,8 @@ Muhammed Musab Okşaş, ID: 21602984,
 
 Doğukan Köse, ID: 21602375
 
+# Example Screenshots
+
 ![alt text](https://github.com/kandogu/Computer-Graphics-Ray-Tracing/blob/main/Render&#32;Examples/3_wall_mirror.png?raw=true)
 <br>
 <br>
